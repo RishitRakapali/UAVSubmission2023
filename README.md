@@ -1,7 +1,7 @@
 # UAVSubmission2023
 Uav submission for 2023
 
-My name is Rishit Rakapali. I've been coding for 5 + yrs in various programming language such as Java, C++, Python, CSS, Html, JavaScript, and SQL
+Yo my name is Rishit Rakapali and I'm a sophmore at Amador Valley HS. I've been coding for 5 + yrs in various programming language such as Java, C++, Python, CSS, Html, JavaScript, and SQL
 I always determined to code and always up for new challenges and new tools and technologies.
 
 Check out my past expiernce and project done in python and java:
